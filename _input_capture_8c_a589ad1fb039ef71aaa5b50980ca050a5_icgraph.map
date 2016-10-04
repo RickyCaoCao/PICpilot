@@ -1,0 +1,6 @@
+<map id="initTimer2" name="initTimer2">
+<area shape="rect" id="node2" href="$_input_capture_8h.html#a5e7eb812d2eda582e078823bd98f35ee" title="initIC" alt="" coords="133,5,187,32"/>
+<area shape="rect" id="node3" href="$_p_w_m_8h.html#a81aa14d9f1524ed2fb94319f92aab0e5" title="initPWM" alt="" coords="235,5,307,32"/>
+<area shape="rect" id="node4" href="$_attitude_manager_8h.html#aca8d3a2d782422496e6d7adfa3ea2294" title="attitudeInit" alt="" coords="355,5,437,32"/>
+<area shape="rect" id="node5" href="$_attitude_manager_2main_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="485,5,536,32"/>
+</map>

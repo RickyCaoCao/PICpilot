@@ -1,0 +1,5 @@
+<map id="getSensorStatus" name="getSensorStatus">
+<area shape="rect" id="node2" href="$debug_8c.html#a005f7c042e3bfa278fcb1b22f2df0dbe" title="warning" alt="" coords="173,5,240,32"/>
+<area shape="rect" id="node3" href="$_u_a_r_t1_8c.html#a764dd649452c956a2a0ffa3bee159f60" title="UART1_SendString" alt="" coords="289,5,426,32"/>
+<area shape="rect" id="node4" href="$_u_a_r_t1_8c.html#adf4aa6f089175def7cb2397dd160a167" title="UART1_SendChar" alt="" coords="475,5,605,32"/>
+</map>

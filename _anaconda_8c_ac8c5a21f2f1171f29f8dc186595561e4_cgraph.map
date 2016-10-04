@@ -1,0 +1,11 @@
+<map id="startArm" name="startArm">
+<area shape="rect" id="node2" href="$_anaconda_8c.html#ad29ea68a65d325fd3124f44f09ad8008" title="armVehicle" alt="" coords="126,56,213,83"/>
+<area shape="rect" id="node3" href="$_program_status_8c.html#a4518e29044a00f9dbad0aaf7db866c37" title="setProgramStatus" alt="" coords="262,5,389,32"/>
+<area shape="rect" id="node7" href="$delay_8c.html#ae3cda81b95b7cfb84da863b65054a857" title="Delay" alt="" coords="297,56,353,83"/>
+<area shape="rect" id="node8" href="$_p_w_m_8c.html#a12e1f21b6d004965b6e2389bce4b1386" title="setPWM" alt="" coords="289,107,362,133"/>
+<area shape="rect" id="node4" href="$debug_8c.html#a41a264f07d7a57c334e29818d03c8ecd" title="debug" alt="" coords="455,5,513,32"/>
+<area shape="rect" id="node5" href="$_u_a_r_t1_8c.html#a764dd649452c956a2a0ffa3bee159f60" title="UART1_SendString" alt="" coords="579,56,717,83"/>
+<area shape="rect" id="node6" href="$_u_a_r_t1_8c.html#adf4aa6f089175def7cb2397dd160a167" title="UART1_SendChar" alt="" coords="765,56,896,83"/>
+<area shape="rect" id="node9" href="$_output_compare_8c.html#ab70add4718d09473a9e33ff506481f96" title="setOCValue" alt="" coords="437,56,531,83"/>
+<area shape="rect" id="node10" href="$debug_8c.html#a8e1bf3d5ea0a885f81e71d2023a55777" title="error" alt="" coords="460,107,508,133"/>
+</map>

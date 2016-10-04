@@ -1,0 +1,5 @@
+<map id="initIC" name="initIC">
+<area shape="rect" id="node2" href="$_input_capture_8c.html#a3b1f1c71d1e0131c28788b389ed4d611" title="initInputCapture" alt="" coords="107,5,221,32"/>
+<area shape="rect" id="node3" href="$_input_capture_8c.html#a589ad1fb039ef71aaa5b50980ca050a5" title="initTimer2" alt="" coords="125,56,203,83"/>
+<area shape="rect" id="node4" href="$_output_compare_8c.html#ac8b48162819d03ffff6340c4a06adaf0" title="setPeriod" alt="" coords="269,56,347,83"/>
+</map>

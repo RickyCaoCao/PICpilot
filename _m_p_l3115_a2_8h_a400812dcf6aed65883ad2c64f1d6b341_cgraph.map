@@ -1,0 +1,10 @@
+<map id="initAltimeter" name="initAltimeter">
+<area shape="rect" id="node2" href="$_i2_c_8c.html#abe298a3c1d98035cebe8b0535db549fa" title="initI2C" alt="" coords="191,5,251,32"/>
+<area shape="rect" id="node3" href="$_i2_c_8c.html#a78fccc3f7455e9bb8728e56e9ae81486" title="checkDevicePresence" alt="" coords="145,56,298,83"/>
+<area shape="rect" id="node4" href="$_i2_c_8c.html#ab1ad4b796737050ab8d4b980af2da99a" title="sendMessage" alt="" coords="170,107,273,133"/>
+<area shape="rect" id="node7" href="$debug_8c.html#a41a264f07d7a57c334e29818d03c8ecd" title="debug" alt="" coords="193,157,250,184"/>
+<area shape="rect" id="node5" href="$_i2_c_8c.html#a02cb9a223486b30a97a1ccfcd201547e" title="readMessage" alt="" coords="366,56,466,83"/>
+<area shape="rect" id="node6" href="$_i2_c_8c.html#a89ab7d924ea58b1b5820d188a871a11a" title="writeMessage" alt="" coords="365,107,467,133"/>
+<area shape="rect" id="node8" href="$_u_a_r_t1_8c.html#a764dd649452c956a2a0ffa3bee159f60" title="UART1_SendString" alt="" coords="347,157,485,184"/>
+<area shape="rect" id="node9" href="$_u_a_r_t1_8c.html#adf4aa6f089175def7cb2397dd160a167" title="UART1_SendChar" alt="" coords="533,157,664,184"/>
+</map>

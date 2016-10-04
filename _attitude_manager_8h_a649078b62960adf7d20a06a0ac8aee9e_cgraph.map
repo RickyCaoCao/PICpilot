@@ -1,0 +1,7 @@
+<map id="altitudeControl" name="altitudeControl">
+<area shape="rect" id="node2" href="$_orientation_control_8c.html#a24f2b62c2b4618a77920c00a0d46f414" title="controlSignalAltitude" alt="" coords="160,43,301,69"/>
+<area shape="rect" id="node3" href="$debug_8c.html#a8e1bf3d5ea0a885f81e71d2023a55777" title="error" alt="" coords="375,5,423,32"/>
+<area shape="rect" id="node6" href="$_orientation_control_8c.html#ad3848892094dd89e76bab46257f0c9b6" title="controlSignal" alt="" coords="350,80,447,107"/>
+<area shape="rect" id="node4" href="$_u_a_r_t1_8c.html#a764dd649452c956a2a0ffa3bee159f60" title="UART1_SendString" alt="" coords="497,5,634,32"/>
+<area shape="rect" id="node5" href="$_u_a_r_t1_8c.html#adf4aa6f089175def7cb2397dd160a167" title="UART1_SendChar" alt="" coords="683,5,813,32"/>
+</map>

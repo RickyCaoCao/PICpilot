@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$clock_8c.html#ac94b13435637307594311fbb474c253b" title="useFRCPLLClock" alt="" coords="104,208,232,235"/>
+<area shape="rect" id="node3" href="$debug_8c.html#a0b7438b525ca7565e60bcab4d2d70805" title="initDebug" alt="" coords="129,259,207,285"/>
+<area shape="rect" id="node5" href="$_attitude_manager_2_startup_error_codes_8c.html#a2e56c89f9ae2697471c3a747f9663252" title="checkErrorCodes" alt="" coords="107,309,229,336"/>
+<area shape="rect" id="node6" href="$_attitude_manager_8c.html#aea56cc7e4fe315c174560caf7f44627a" title="attitudeInit" alt="" coords="127,993,209,1020"/>
+<area shape="rect" id="node43" href="$_state_machine_8c.html#a0557d935ed927de974186932309946e6" title="StateMachine" alt="" coords="317,335,419,361"/>
+<area shape="rect" id="node4" href="$_u_a_r_t1_8c.html#a13e383e40c8c227f9b6e344b93c7ea52" title="InitUART1" alt="" coords="326,259,410,285"/>
+<area shape="rect" id="node7" href="$_program_status_8c.html#a4518e29044a00f9dbad0aaf7db866c37" title="setProgramStatus" alt="" coords="533,1196,659,1223"/>
+<area shape="rect" id="node8" href="$debug_8c.html#a41a264f07d7a57c334e29818d03c8ecd" title="debug" alt="" coords="814,1247,871,1273"/>
+<area shape="rect" id="node10" href="$timer_8c.html#a358c766ac655f361eec4c8f37c613871" title="initTimer4" alt="" coords="329,1348,407,1375"/>
+<area shape="rect" id="node11" href="$_common_8c.html#ab1037f62067bc851a93f4689549145a2" title="generateAMDataDMACheckbyte" alt="" coords="736,639,949,665"/>
+<area shape="rect" id="node12" href="$_attitude_manager_2_interchip_d_m_a_8c.html#a5477a52108df8d54bc7edd07ad9c48b6" title="init_SPI1" alt="" coords="805,828,880,855"/>
+<area shape="rect" id="node13" href="$_attitude_manager_2_interchip_d_m_a_8c.html#a8410b17254423d80de96645f3d63803d" title="init_DMA0" alt="" coords="801,955,884,981"/>
+<area shape="rect" id="node14" href="$_attitude_manager_2_interchip_d_m_a_8c.html#aabc3aece73f61a879bd322eea3382ebe" title="init_DMA1" alt="" coords="801,1025,884,1052"/>
+<area shape="rect" id="node15" href="$_p_w_m_8c.html#a81aa14d9f1524ed2fb94319f92aab0e5" title="initPWM" alt="" coords="332,1399,404,1425"/>
+<area shape="rect" id="node18" href="$_v_n100_8c.html#afbebf2c0bbd6e7bdde44b63386b105be" title="VN100_initSPI" alt="" coords="314,537,422,564"/>
+<area shape="rect" id="node19" href="$_v_n100_8c.html#ac9af3ebdf281857819ef562d292902bf" title="VN100_SPI_GetModel" alt="" coords="291,841,445,868"/>
+<area shape="rect" id="node21" href="$_program_status_8c.html#acf089ad6e9e70e377f5fa9a9361f41f3" title="setSensorStatus" alt="" coords="537,1297,655,1324"/>
+<area shape="rect" id="node23" href="$_attitude_manager_8c.html#aecd1366a8a89aa515e6dc8479fa33c03" title="setVNOrientationMatrix" alt="" coords="763,740,922,767"/>
+<area shape="rect" id="node28" href="$_v_n100_8c.html#a133a666555c0af8fb3c15b3e3c39d2fb" title="VN100_SPI_SetFiltMeasVar" alt="" coords="1002,1051,1190,1077"/>
+<area shape="rect" id="node29" href="$net_8h.html#af9699ef16633469729d62fda5412046a" title="net_outbound.c " alt="" coords="323,892,413,919"/>
+<area shape="rect" id="node31" href="$net_8h.html#aeff15ad2d4405adc658ba11c2525a2b6" title="checkDataLinkConnection" alt="" coords="281,1145,455,1172"/>
+<area shape="rect" id="node32" href="$_anaconda_8c.html#a9a955bd8d80ffc2c4382278f85fcde08" title="initialization" alt="" coords="323,588,413,615"/>
+<area shape="rect" id="node9" href="$_u_a_r_t1_8c.html#a764dd649452c956a2a0ffa3bee159f60" title="UART1_SendString" alt="" coords="1027,1272,1165,1299"/>
+<area shape="rect" id="node16" href="$_input_capture_8c.html#a5e7eb812d2eda582e078823bd98f35ee" title="initIC" alt="" coords="569,1373,623,1400"/>
+<area shape="rect" id="node17" href="$_output_compare_8c.html#aede8cdf4f3e1815b0baabbb9ca3fc6de" title="initOC" alt="" coords="567,1424,625,1451"/>
+<area shape="rect" id="node20" href="$_v_n100_8c.html#adc02ae8fa4744d3a9efc8c88d5ef037b" title="VN100_SPI_ReadRegister" alt="" coords="507,841,685,868"/>
+<area shape="rect" id="node22" href="$debug_8c.html#a005f7c042e3bfa278fcb1b22f2df0dbe" title="warning" alt="" coords="809,1297,876,1324"/>
+<area shape="rect" id="node24" href="$_v_n100_8c.html#aaa0082a5d378d0f0347fd264f318bb57" title="VN100_SPI_SetRefFrameRot" alt="" coords="997,917,1195,944"/>
+<area shape="rect" id="node26" href="$_v_n100_8c.html#af7f8b17e2c25a85bed3cd96e1bc8179f" title="VN100_SPI_WriteSettings" alt="" coords="1007,765,1185,792"/>
+<area shape="rect" id="node27" href="$_v_n100_8c.html#a5f5e071fe823cd8491678ceb7e498473" title="VN100_SPI_Reset" alt="" coords="1029,715,1163,741"/>
+<area shape="rect" id="node25" href="$_v_n100_8c.html#ada119f969c1f7090e1745b2ae79262d6" title="VN100_SPI_WriteRegister" alt="" coords="1243,963,1421,989"/>
+<area shape="rect" id="node30" href="$_u_a_r_t2_8c.html#a899679900b8a250cd46d9bffaefd8e70" title="Initializes the UART2 connection. " alt="" coords="554,892,638,919"/>
+<area shape="rect" id="node33" href="$_p_w_m_8c.html#a12e1f21b6d004965b6e2389bce4b1386" title="setPWM" alt="" coords="806,449,879,476"/>
+<area shape="rect" id="node34" href="$_attitude_manager_8c.html#a7c7c1389acd44e0c2e29a31f35a902ff" title="imuCommunication" alt="" coords="529,385,663,412"/>
+<area shape="rect" id="node35" href="$_attitude_manager_8c.html#ac12b7c7a4f89508e2069606daf291118" title="checkDMA" alt="" coords="553,791,639,817"/>
+<area shape="rect" id="node36" href="$_attitude_manager_8c.html#a7a4dd2b79820f51766dac5b31ebc24bd" title="writeDatalink" alt="" coords="547,284,645,311"/>
+<area shape="rect" id="node39" href="$_attitude_manager_8c.html#a674ea971a0e35acfbf481bb5a86915d2" title="readDatalink" alt="" coords="549,588,643,615"/>
+<area shape="rect" id="node40" href="$net_8h.html#a93aa06bf9bf3fe5f0b4a0fd060aa80f0" title="inboundBufferMaintenance" alt="" coords="508,436,684,463"/>
+<area shape="rect" id="node41" href="$net_8h.html#a514c9b1839914eb50dda54a413cb3ae4" title="outboundBufferMaintenance" alt="" coords="504,487,688,513"/>
+<area shape="rect" id="node42" href="$delay_8c.html#ae3cda81b95b7cfb84da863b65054a857" title="Delay" alt="" coords="568,639,624,665"/>
+<area shape="rect" id="node37" href="$timer_8c.html#a0adaae18a55b587173bbc7f7135a6eb9" title="getTime" alt="" coords="808,309,877,336"/>
+<area shape="rect" id="node38" href="$_p_w_m_8c.html#abe440f6d1fa0b744f81c3f3daec53c32" title="getPWMArray" alt="" coords="791,183,895,209"/>
+<area shape="rect" id="node44" href="$_attitude_manager_8c.html#add72119163c40236eb2b2b887dd88c4f" title="inputCapture" alt="" coords="548,31,644,57"/>
+<area shape="rect" id="node47" href="$_state_machine_8c.html#a0ec275de1c3f187c834985ddbc1d067f" title="highLevelControl" alt="" coords="537,81,655,108"/>
+<area shape="rect" id="node48" href="$_state_machine_8c.html#a882881ab0b9a6decabc3b91745d42054" title="lowLevelControl" alt="" coords="539,335,653,361"/>
+<area shape="rect" id="node49" href="$_attitude_manager_2_interchip_d_m_a_8c.html#ae75ac094ef7dff46e7825b30434787c8" title="isDMADataAvailable" alt="" coords="525,132,667,159"/>
+<area shape="rect" id="node50" href="$_orientation_control_8c.html#a864f0b0acf55a2c5682589c06917b6bb" title="areGainsUpdated" alt="" coords="535,183,657,209"/>
+<area shape="rect" id="node45" href="$_anaconda_8c.html#a3d0b6882313892dc79b5283043a82776" title="inputMixing" alt="" coords="799,5,887,32"/>
+<area shape="rect" id="node46" href="$_orientation_control_8c.html#a5fb10663ee66852f8bced91d0f442113" title="unfreezeIntegral" alt="" coords="785,56,900,83"/>
+</map>

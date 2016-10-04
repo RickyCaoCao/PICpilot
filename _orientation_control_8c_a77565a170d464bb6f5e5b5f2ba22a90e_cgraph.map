@@ -1,0 +1,6 @@
+<map id="controlSignalFlap" name="controlSignalFlap">
+<area shape="rect" id="node2" href="$debug_8c.html#a8e1bf3d5ea0a885f81e71d2023a55777" title="error" alt="" coords="201,5,249,32"/>
+<area shape="rect" id="node5" href="$_orientation_control_8c.html#ad3848892094dd89e76bab46257f0c9b6" title="controlSignal" alt="" coords="177,80,274,107"/>
+<area shape="rect" id="node3" href="$_u_a_r_t1_8c.html#a764dd649452c956a2a0ffa3bee159f60" title="UART1_SendString" alt="" coords="323,5,461,32"/>
+<area shape="rect" id="node4" href="$_u_a_r_t1_8c.html#adf4aa6f089175def7cb2397dd160a167" title="UART1_SendChar" alt="" coords="509,5,640,32"/>
+</map>

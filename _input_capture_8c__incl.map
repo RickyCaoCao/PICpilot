@@ -1,0 +1,9 @@
+<map id="Autopilot/AttitudeManager/InputCapture.c" name="Autopilot/AttitudeManager/InputCapture.c">
+<area shape="rect" id="node5" href="$_input_capture_8h.html" title="InputCapture.h" alt="" coords="55,96,162,123"/>
+<area shape="rect" id="node13" href="$_output_compare_8h.html" title="OutputCompare.h" alt="" coords="302,96,428,123"/>
+<area shape="rect" id="node6" href="$_attitude_manager_2main_8h.html" title="main.h" alt="" coords="157,171,218,197"/>
+<area shape="rect" id="node7" href="$_common_8h.html" title="../Common/Common.h" alt="" coords="257,245,410,272"/>
+<area shape="rect" id="node10" href="$timer_8h.html" title="timer.h" alt="" coords="436,245,498,272"/>
+<area shape="rect" id="node11" href="$delay_8h.html" title="delay.h" alt="" coords="54,245,118,272"/>
+<area shape="rect" id="node12" href="$_anaconda_8h.html" title="Anaconda.h" alt="" coords="142,245,233,272"/>
+</map>

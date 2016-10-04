@@ -1,0 +1,7 @@
+<map id="throttleControl" name="throttleControl">
+<area shape="rect" id="node2" href="$_orientation_control_8c.html#ad5a0882d1c59ae96d55ce3d989a3ac8a" title="controlSignalThrottle" alt="" coords="157,43,299,69"/>
+<area shape="rect" id="node3" href="$debug_8c.html#a8e1bf3d5ea0a885f81e71d2023a55777" title="error" alt="" coords="372,5,420,32"/>
+<area shape="rect" id="node6" href="$_orientation_control_8c.html#ad3848892094dd89e76bab46257f0c9b6" title="controlSignal" alt="" coords="347,80,445,107"/>
+<area shape="rect" id="node4" href="$_u_a_r_t1_8c.html#a764dd649452c956a2a0ffa3bee159f60" title="UART1_SendString" alt="" coords="494,5,631,32"/>
+<area shape="rect" id="node5" href="$_u_a_r_t1_8c.html#adf4aa6f089175def7cb2397dd160a167" title="UART1_SendChar" alt="" coords="680,5,811,32"/>
+</map>

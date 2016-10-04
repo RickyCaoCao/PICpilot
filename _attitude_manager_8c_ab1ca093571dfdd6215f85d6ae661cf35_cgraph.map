@@ -1,0 +1,8 @@
+<map id="checkUHFStatus" name="checkUHFStatus">
+<area shape="rect" id="node2" href="$_program_status_8c.html#a4518e29044a00f9dbad0aaf7db866c37" title="setProgramStatus" alt="" coords="297,20,423,47"/>
+<area shape="rect" id="node6" href="$timer_8c.html#a0adaae18a55b587173bbc7f7135a6eb9" title="getTime" alt="" coords="177,20,247,47"/>
+<area shape="rect" id="node7" href="$_state_machine_8c.html#aefe52cc9c0c6609c97693e029a4ff68a" title="killPlane" alt="" coords="177,71,247,97"/>
+<area shape="rect" id="node3" href="$debug_8c.html#a41a264f07d7a57c334e29818d03c8ecd" title="debug" alt="" coords="473,20,530,47"/>
+<area shape="rect" id="node4" href="$_u_a_r_t1_8c.html#a764dd649452c956a2a0ffa3bee159f60" title="UART1_SendString" alt="" coords="579,20,717,47"/>
+<area shape="rect" id="node5" href="$_u_a_r_t1_8c.html#adf4aa6f089175def7cb2397dd160a167" title="UART1_SendChar" alt="" coords="765,20,896,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="headingControl" name="headingControl">
+<area shape="rect" id="node2" href="$_attitude_manager_8c.html#a4c9bb1bb19fbf9382335c659e1aceff5" title="setHeadingSetpoint" alt="" coords="168,5,304,32"/>
+<area shape="rect" id="node3" href="$_orientation_control_8c.html#ab4f25c7417de7b20e4306df9dcf6c9b2" title="controlSignalHeading" alt="" coords="163,56,309,83"/>
+<area shape="rect" id="node4" href="$debug_8c.html#a8e1bf3d5ea0a885f81e71d2023a55777" title="error" alt="" coords="383,19,431,45"/>
+<area shape="rect" id="node7" href="$_orientation_control_8c.html#ad3848892094dd89e76bab46257f0c9b6" title="controlSignal" alt="" coords="358,93,455,120"/>
+<area shape="rect" id="node5" href="$_u_a_r_t1_8c.html#a764dd649452c956a2a0ffa3bee159f60" title="UART1_SendString" alt="" coords="505,19,642,45"/>
+<area shape="rect" id="node6" href="$_u_a_r_t1_8c.html#adf4aa6f089175def7cb2397dd160a167" title="UART1_SendChar" alt="" coords="691,19,821,45"/>
+</map>
